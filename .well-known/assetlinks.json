@@ -1,0 +1,28 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "net.dulix.mobile_app.stg",
+            "sha256_cert_fingerprints": [
+                "CE:23:8C:47:C0:95:F9:43:45:BB:3D:2B:73:C6:D7:E4:E5:62:6A:D0:F1:15:FA:DC:C8:02:01:B6:B9:65:81:5B",
+                "AA:3B:F7:7F:8B:04:EA:98:2F:39:CB:07:F3:92:27:8C:91:A4:D4:C3:D5:77:25:17:04:32:74:1A:2B:4B:87:87"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "net.dulix.mobile_app",
+            "sha256_cert_fingerprints": [
+                "CE:23:8C:47:C0:95:F9:43:45:BB:3D:2B:73:C6:D7:E4:E5:62:6A:D0:F1:15:FA:DC:C8:02:01:B6:B9:65:81:5B",
+                "AA:3B:F7:7F:8B:04:EA:98:2F:39:CB:07:F3:92:27:8C:91:A4:D4:C3:D5:77:25:17:04:32:74:1A:2B:4B:87:87"
+            ]
+        }
+    }
+]
