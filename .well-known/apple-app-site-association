@@ -1,0 +1,31 @@
+{
+  "applinks":{
+    "apps":[
+       
+    ],
+    "details":[
+      {
+        "appIDs":[
+          "LCF9WF6N65.net.dulix.mobileApp.stg"
+        ],
+        "components":[
+          {
+            "/":"/itinerary/*",
+            "comment":"Matches any URL with a path that starts with /itinerary/."
+          }
+        ]
+      },
+      {
+        "appIDs":[
+          "LCF9WF6N65.net.dulix.mobileApp"
+        ],
+        "components":[
+          {
+            "/":"/itinerary/*",
+            "comment":"Matches any URL with a path that starts with /itinerary/."
+          }
+        ]
+      }
+    ]
+  }
+}
